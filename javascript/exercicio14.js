@@ -13,9 +13,9 @@ const carro = {
 
 function verificarCarro(carro){
     if(carro.ano > 2020 || carro.km < 1000){
-        console.log = ("Carro novo")
+        console.log("Carro novo")
     } else {
-        console.log = ("Carro usado")
+        console.log("Carro usado")
     }
 }
 
